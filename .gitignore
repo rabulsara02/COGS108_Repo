@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -188,3 +189,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+=======
+
+>>>>>>> 9598658b6651fdc483f04c266c6327e31d742ee7
